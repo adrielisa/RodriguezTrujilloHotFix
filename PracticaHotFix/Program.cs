@@ -21,8 +21,8 @@ namespace PracticaHotFix
         {
             Personaje personaje = new Personaje
             {
-                Nombre = "67",
-                Vida = -100, 
+                Nombre = "Guerrero",
+                Vida = 100, 
                 Ataque = 50,
                 Defensa = 30,
                 Nivel = 1
